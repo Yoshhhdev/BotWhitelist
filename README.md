@@ -13,3 +13,8 @@ Pour tout Support Discord : FlashJoJo#5454
 3. Lancer Start.bat et Profiter de Votre Bot 
 
 PS : N'oublier pas de Configurer votre base de Donnée FiveM dans Index.js !!!!
+
+Crédit : 
+
+Bot Crée par : https://github.com/Keolooo
+Bot Modifiée par : https://github.com/JODevTV
